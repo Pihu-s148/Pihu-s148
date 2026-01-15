@@ -205,6 +205,7 @@ I'm always excited to discuss AI/ML innovations, collaborate on challenging prob
 - 📧 **Email:** pihu.s1488@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/pihusrivastava](https://www.linkedin.com/in/pihusrivastava/)
 - 💻 **GitHub:** [github.com/Pihu-s148](https://github.com/Pihu-s148)
+- 🤖 **Portfolio:** [https://pihu-s148.github.io/PORTFOLIO/)
 - 📱 **Phone:** +91 8173891834
 - 📍 **Location:** Lucknow, India
 
