@@ -3,6 +3,8 @@
 ### 🤖 Data Scientist & AI Solutions Architect | GenAI Specialist | Production ML Engineer
 
 ---
+<img width="1229" height="609" alt="ChatGPT Image Jan 15, 2026, 07_53_57 PM (1)" src="https://github.com/user-attachments/assets/9c3e60c8-e4ef-4f36-8ac3-ec11d620bdf7" />
+
 
 ## 🚀 About Me
 
